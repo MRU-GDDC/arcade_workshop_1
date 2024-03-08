@@ -1,6 +1,6 @@
 # arcade_workshop_1
 
-	# func _on_mob_timer_timeout():
+	```func _on_mob_timer_timeout():
 		# Create a new instance of the Mob scene.
 		var mob = mob_scene.instantiate()
 	
